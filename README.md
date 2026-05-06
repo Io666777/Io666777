@@ -38,7 +38,7 @@ Frontend-developer
 
 ### Projects in Progress
 
-* [**reader**](https://github.com/Io666777/reader) — Система поиска книг с интеграцией Google Books API.
+[**reader**](https://github.com/Io666777/reader) - Система поиска книг с интеграцией Google Books API.
   
 ---
 
