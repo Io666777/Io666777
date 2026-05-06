@@ -1,4 +1,4 @@
-# Hi there, I'm Dmitry 👋
+# Hello, I'm Dmitry 👋
 
 Frontend-developer
 
@@ -35,3 +35,4 @@ Frontend-developer
 #### **Contacts**
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Cakpajl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/дмитрий-скитихин-a967b3389)
