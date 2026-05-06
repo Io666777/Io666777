@@ -36,6 +36,12 @@ Frontend-developer
 
 ---
 
+### Projects in Progress
+
+* [**reader**](https://github.com/Io666777/reader) — Система поиска книг с интеграцией Google Books API.
+  
+---
+
 ### Contacts
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Cakpajl)
